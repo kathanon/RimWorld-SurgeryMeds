@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <!-- UI -->
+    <kathanon.SurgeryMeds.ForSurgery>for surgery:</kathanon.SurgeryMeds.ForSurgery>
+    <kathanon.SurgeryMeds.TipNoLabel>(right-click to set for surgery)</kathanon.SurgeryMeds.TipNoLabel>
+    <kathanon.SurgeryMeds.UseVanilla>Use medical care setting</kathanon.SurgeryMeds.UseVanilla>
+    <kathanon.SurgeryMeds.IconTipOn>Used for surgery, right-click to unset.</kathanon.SurgeryMeds.IconTipOn>
+    <kathanon.SurgeryMeds.IconTipOff>Right-click to use for surgery.</kathanon.SurgeryMeds.IconTipOff>
+
+    <!-- UI - parameterized -->
+	<kathanon.SurgeryMeds.TipForLabel>For surgery: {0} (right-click)</kathanon.SurgeryMeds.TipForLabel>
+	<kathanon.SurgeryMeds.TipForButton>Medical care: {0} (left-click)
+{1}</kathanon.SurgeryMeds.TipForButton>
+</LanguageData>
